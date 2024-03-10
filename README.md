@@ -1,4 +1,4 @@
-# Interactive interface integrating dataset's insights
+# Interactive Interface
 
 ![Interface](source/tde-4sem.png?raw=true)
 
